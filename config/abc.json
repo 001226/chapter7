@@ -1,8 +1,1 @@
-{
-  {
-    "module"."11601"
-   }
-   {
-    "module"."11602"
-    }
-}
+{{"module":"dirlister"},{"module":"environment"}}
